@@ -25,5 +25,5 @@ Esta pasta contém uma prática de escrita de código e um exercício de composi
 - já em **ThisTest**, há um execício usando o princípio da composição, sendo declarado uma classe `SimpleTime` com contrutor e esta mesma classe é instanciada dentro da classe `ThisTest` para que seja testado a forma de compor um objeto `String`.
 
 ## Observação :grey_exclamation:
-Este repositório está em contrução. 
+Este repositório está em construção. 
 Alguns (ou todos) os exercícios aqui poderão ser alterados e serão adicionados ainda mais a fim de reforçar os estudos em linguagem Java e também aplicação de conceitos fundamentais de programação e soluções computacionais.
