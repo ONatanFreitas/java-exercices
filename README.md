@@ -17,7 +17,7 @@ Na pasta Integers, há dois tipos de exercícios com o tipo primitivo `int`:
 - **Comparison**, exercício de uso de operadores relacionais, craiação e atribuição de variáveis.
 
 #### RandomIntegers :game_die:
-Na pasta RandomIntegers, há um exercício utilizando a classe SecureRandom, da biblioteca do Java, além do uso do operador de resto `%` e criação de loop com o método `for`.
+Na pasta RandomIntegers, há um exercício utilizando a classe SecureRandom, da biblioteca do Java, além do uso do operador de resto `%` e criação de laço de repetição com o método `for`.
 
 #### OO :bookmark_tabs:
 Esta pasta contém uma prática de escrita de código e um exercício de composição utilizando o paradigma de Orientação a Objetos. 
